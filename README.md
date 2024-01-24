@@ -18,7 +18,7 @@
 <html>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
+<div>
     <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
             alt="laravel" width="40" height="40" />
@@ -70,6 +70,6 @@
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="ios"
             width="40" height="40" /> </a>
-
+</div>
 </p>
 </html>
